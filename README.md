@@ -1,2 +1,0 @@
-# khenzelProject
-myUnivesityProject
